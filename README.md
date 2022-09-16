@@ -5,7 +5,8 @@
   Make an interactive dashboard using multiple visuals and anticipate questions which business leaders may need answer to.
 
 # Data Source
-  
+  [Online Retail.xlsx](https://github.com/Richa-Chamoli/TATA-Data-Visualization/files/9583746/Online.Retail.xlsx)
+
 
 # Tasks Given
   * Framing the Business Scenario:
@@ -35,6 +36,9 @@
     Visuals needed to be created based on the questions given.
 
 # Final Dashboard
+   [Retail Reports1.pptx](https://github.com/Richa-Chamoli/TATA-Data-Visualization/files/9583764/Retail.Reports1.pptx)
+
+
 
 
 # Storytelling
