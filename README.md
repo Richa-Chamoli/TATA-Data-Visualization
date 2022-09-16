@@ -12,6 +12,7 @@ Importance of creating effective visuals
 
 # Tasks Given
   * Framing the Business Scenario:
+
     The data set of online retail of a company was given. First task was to draft questions from the data which can be important to CEO and CMO of the company.
    
     Questions for CEO:
