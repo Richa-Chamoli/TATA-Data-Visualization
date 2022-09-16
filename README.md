@@ -1,6 +1,3 @@
-# TATA-Data-Visualization
-Importance of creating effective visuals
-
 # Intro
   I did a virtual internship with TATA in association with forage. It was about the visualization in data analysis. The importance of right and effective visual to make a smart and effective marketing and business strategy.
 
